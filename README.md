@@ -332,10 +332,4 @@ GradCAM: Selvaraju et al. (2017) — ICCV 2017
 
 **Narjeena Thanveen P K**
 
-MSc Computer Science (AI / ML / Data Science)
-
-S-VYASA Deemed to be University, Bengaluru · 2026
-
-*If this project helped you or you found it interesting, consider giving it a ⭐*
-
 </div>
